@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/fthomas/equites.png?label=ready&title=Ready)](https://waffle.io/fthomas/equites)
 # Equites, a Scala chess playground
 [![Build Status](https://travis-ci.org/equites-chess/equites-core.svg?branch=master)](https://travis-ci.org/equites-chess/equites-core)
 [![Coverage Status](https://img.shields.io/coveralls/equites-chess/equites-core.svg)](https://coveralls.io/r/equites-chess/equites-core?branch=master)
